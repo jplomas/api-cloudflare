@@ -10,7 +10,7 @@
 	"dependencies": {
 		"@saferinsulin/core": "^2.0.1",
 		"chanfana": "^2.0.2",
-		"hono": "^4.4.7",
+		"hono": "^4.12.12",
 		"zod": "^3.23.8"
 	},
 	"devDependencies": {
